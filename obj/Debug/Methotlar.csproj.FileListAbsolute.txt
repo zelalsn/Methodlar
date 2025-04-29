@@ -1,0 +1,7 @@
+C:\Users\Zelal\source\repos\Methotlar\bin\Debug\Methotlar.exe.config
+C:\Users\Zelal\source\repos\Methotlar\bin\Debug\Methotlar.exe
+C:\Users\Zelal\source\repos\Methotlar\bin\Debug\Methotlar.pdb
+C:\Users\Zelal\source\repos\Methotlar\obj\Debug\Methotlar.csproj.AssemblyReference.cache
+C:\Users\Zelal\source\repos\Methotlar\obj\Debug\Methotlar.csproj.CoreCompileInputs.cache
+C:\Users\Zelal\source\repos\Methotlar\obj\Debug\Methotlar.exe
+C:\Users\Zelal\source\repos\Methotlar\obj\Debug\Methotlar.pdb
